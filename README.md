@@ -1,2 +1,3 @@
-# hello-word
-Primer proyecto
+# Algoritmos Prueba
+Prueba Algoritmos
+Esteban Cueva
